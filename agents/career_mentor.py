@@ -1,29 +1,29 @@
-import os
-from dotenv import load_dotenv
-from google import genai
-
-# Load environment variables
-load_dotenv()
-
-api_key = os.getenv("GEMINI_API_KEY")
-
-client = genai.Client(api_key=api_key)
+from utils.gemini_client import client
 
 
 def generate_career_guidance(career_goal, question):
+
     prompt = f"""
-    The user's career goal is {career_goal}.
+You are CareerPilot AI, an expert career mentor.
 
-    User Question:
-    {question}
+Career Goal:
+{career_goal}
 
-    Give:
-    1. Career Advice
-    2. Skills Required
-    3. Learning Resources
-    4. Suggested Projects
-    5. Interview Preparation Tips
-    """
+User Question:
+{question}
+
+Provide:
+
+## 🎯 Career Advice
+
+## 📚 Skills to Learn
+
+## 🚀 Recommended Certifications
+
+## 💼 Career Opportunities
+
+## 📅 Next Steps
+"""
 
     response = client.models.generate_content(
         model="gemini-2.5-flash",
