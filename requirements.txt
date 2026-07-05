@@ -1,5 +1,5 @@
 streamlit
 google-genai
 python-dotenv
-PyPDF2
+pypdf
 reportlab
