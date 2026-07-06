@@ -32,10 +32,6 @@ https://careerpilot-aigit-2ermdpvoyakey6wzyqbyrr.streamlit.app/
 
 https://github.com/macharlaveenajasmine-sys/careerpilot-ai
 
-🎥 Demo Video
-
-*(Coming Soon)*
-
 ---
 
 ## 📌 Overview
