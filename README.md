@@ -277,7 +277,7 @@ A short demonstration video showcasing:
 
 ## 👩‍💻 Developer
 
-**Veena Jasmine**
+**Veena Jasmine Macharla**
 
 🎓 B.Tech CSE(AI&ML) Student
 
