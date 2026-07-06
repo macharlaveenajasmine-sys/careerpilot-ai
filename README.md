@@ -283,7 +283,7 @@ A short demonstration video showcasing:
 
 **Veena Jasmine**
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 B.Tech CSE(AI&ML) Student
 
 💡 Passionate about Artificial Intelligence, Multi-Agent Systems, and Career Technology
 
