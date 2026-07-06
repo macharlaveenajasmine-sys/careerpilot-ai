@@ -8,6 +8,26 @@
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Try CareerPilot AI Here**
+
+https://careerpilot-aigit-2ermdpvoyakey6wzyqbyrr.streamlit.app/
+
+---
+
+## 🔗 Quick Links
+
+📂 GitHub Repository
+
+https://github.com/macharlaveenajasmine-sys/careerpilot-ai
+
+🎥 Demo Video
+
+*(Coming Soon)*
+
+---
+
 ## 📌 Overview
 
 CareerPilot AI is an intelligent career assistant designed to help students and job seekers make informed career decisions.
