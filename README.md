@@ -14,6 +14,16 @@
 
 https://careerpilot-aigit-2ermdpvoyakey6wzyqbyrr.streamlit.app/
 
+## ✨ Highlights
+
+- 🤖 Multi-Agent AI Architecture
+- 📄 Resume Analysis
+- 📊 Skill Gap Identification
+- 🗺️ Personalized Learning Roadmap
+- 🎤 Interview Preparation
+- 💡 AI Career Guidance
+- 📥 Downloadable PDF Report
+- 🌐 Live Web Application
 ---
 
 ## 🔗 Quick Links
